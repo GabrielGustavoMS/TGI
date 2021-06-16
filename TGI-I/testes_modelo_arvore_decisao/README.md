@@ -37,4 +37,4 @@
 ![Teste 3.3](./testes03/teste03(sem_colesterol_alto_patologia_vascular_etilismo).png "Teste 3.3 - Sem variáveis colesterol_alto, patologia_vascular e etilismo")
 
 ## Teste com variáveis quantitativas substituindo qualitativas 
-![Teste 4](./teste01/testeComVarQuantitativa.png "Teste 2.5 - Sem variáveis colesterol_alto e patologia_vascular")
+![Teste 4](./testes01/testeComVarQuantitativa.png "Teste 2.5 - Sem variáveis colesterol_alto e patologia_vascular")
