@@ -120,4 +120,4 @@ Substituição de variáveis categóricas em modelos preditivos de árvores de d
 "patologia_vascular","etilismo", "glicemia","peso”,"colesterol_alto", "sedentarismo"
 Figura 16:
 ![Teste 4](./testes01/testeComVarQuantitativa.png "Teste 2.5 - Sem variáveis colesterol_alto e patologia_vascular")
-Acurácia 0.495; 
+Acurácia 0.495; Raiz da árvore: Glicemia
