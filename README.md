@@ -17,12 +17,12 @@ diagnóstico do diabetes tipo 2, dentre essas, demonstra-se a importância da
 redução de dimensionalidade e adequação do tipo de variável em um modelo
 preditivo de árvore de decisão utilizando dados simulados.
 
----
+
 ## Participantes:
 1. Gabriel Gustavo Mariano da Silva
 2. Guilherme Sabino da Silva
 3. *Orientador:* Prof. Ariel da Silva Dias
----
+
 
 ## Principais Tecnologias:
 1. Python
